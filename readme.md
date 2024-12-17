@@ -23,3 +23,5 @@ Create a virtual environment and install the dependencies using `pip install -r 
 - Generate markdown from any file
 - Preview markdown
 - Download the generated markdown file
+
+![Preview](https://github.com/user-attachments/assets/ed14a06e-873a-46e9-8722-94397a8338dc)
